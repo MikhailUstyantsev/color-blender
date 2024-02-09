@@ -7,7 +7,7 @@
 - 100% интерфейс UIKit (кодом)
 _____________
 <div align="center">
-  <img src="" width="300px" />
+  <img src="https://github.com/MikhailUstyantsev/color-blender/blob/main/ColorBlender.gif" width="300px" />
 </div>
 <div align="center">
   <b>
